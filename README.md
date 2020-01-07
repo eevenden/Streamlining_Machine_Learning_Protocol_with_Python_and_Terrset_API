@@ -1,7 +1,7 @@
 # Final Project
 Author: Emily Evenden
 
-Date: October 5th, 2019
+Date: October 5, 2019
 
 ## Part 1: Web-Scraping Weather Data
   
